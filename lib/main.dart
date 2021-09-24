@@ -127,7 +127,7 @@ class _RecorderHomeViewState extends State<RecorderHomeView> {
                 Padding(
                   padding: EdgeInsets.only(left: 15),
                   child: Text(
-                    'Sound List:',
+                    'Sound List :',
                     style: TextStyle(
                       fontSize: 22,
                       color: Colors.black,
